@@ -1,0 +1,16 @@
+C:\Users\ljw75\Repos\Methods Exercise 1 2\bin\Debug\net5.0\Methods Exercise 1 2.exe
+C:\Users\ljw75\Repos\Methods Exercise 1 2\bin\Debug\net5.0\Methods Exercise 1 2.deps.json
+C:\Users\ljw75\Repos\Methods Exercise 1 2\bin\Debug\net5.0\Methods Exercise 1 2.runtimeconfig.json
+C:\Users\ljw75\Repos\Methods Exercise 1 2\bin\Debug\net5.0\Methods Exercise 1 2.runtimeconfig.dev.json
+C:\Users\ljw75\Repos\Methods Exercise 1 2\bin\Debug\net5.0\Methods Exercise 1 2.dll
+C:\Users\ljw75\Repos\Methods Exercise 1 2\bin\Debug\net5.0\Methods Exercise 1 2.pdb
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.csproj.AssemblyReference.cache
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.AssemblyInfoInputs.cache
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.AssemblyInfo.cs
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.csproj.CoreCompileInputs.cache
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.dll
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\refint\Methods Exercise 1 2.dll
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.pdb
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\Methods Exercise 1 2.genruntimeconfig.cache
+C:\Users\ljw75\Repos\Methods Exercise 1 2\obj\Debug\net5.0\ref\Methods Exercise 1 2.dll
